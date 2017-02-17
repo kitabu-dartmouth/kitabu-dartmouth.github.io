@@ -1,8 +1,8 @@
 ---
-title: "updating"
+title: "Milestones"
 bg: purple
 color: white
-fa-icon: cloud-upload
+fa-icon: check-square-o
 ---
 
 ## Updating
